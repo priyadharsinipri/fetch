@@ -5,6 +5,7 @@ The list is displayed with the following requirements
   2)Sort the results first by "listId" then by "name" when displaying.
   3)Filter out any items where "name" is blank or null.
 The screenshot of the result:
-![fetch_screenshot](https://github.com/user-attachments/assets/1a0c2570-5d0f-4632-bca3-b27be4b26dea)
+![fetch_screenshot](https://github.com/user-attachments/assets/0263e2a7-e9b0-4217-9562-7c6696042b16)
+
 
   
